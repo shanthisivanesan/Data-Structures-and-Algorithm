@@ -1,5 +1,4 @@
 # Data-Structures-and-Algorithm
-Data Structures and Algorithm
 
 
 Big O Notation
@@ -8,7 +7,9 @@ Arrays
 
 Stacks
 
-Queues and Deques
+Queues 
+
+Deques
 
 Linked List 
 
