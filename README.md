@@ -1,15 +1,26 @@
 # Data-Structures-and-Algorithm
 Palindrome
+
 Reverse Integer
+
 Reverse String
+
 Frequency of max char
+
 FizzBuzz
+
 Update Paragraph
+
 Array Chunking
+
 Anagrams
+
 Capitalize Sentence
+
 Printing Steps
+
 2-Sided Pyramids
+
 Find the Vowels
 
 Big O Notation
