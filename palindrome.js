@@ -12,14 +12,14 @@ function palindrome(str) {
 //palindrome("malayalam")
 //every helper function
 function palindromehelper(str) {
-    debugger;
+   // debugger;
     if(str.split('').every((char,i)=>{return char === str[str.length -i-1];}))
         document.getElementById("demo").value = str+ " is a palindrome";
     else
         document.getElementById("demo").value = str+ " is not a palindrome";
  }
 
- palindromehelper("malayalam") 
+// palindromehelper("malayalam") 
 
     
 
